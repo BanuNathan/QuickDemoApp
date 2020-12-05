@@ -1,2 +1,3 @@
 # QuickDemoApp
-This is a Quick Demo during class
+This is a Quick Demo App during class. Saturday
+
